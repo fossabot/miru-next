@@ -1,6 +1,8 @@
 <img align="right" width="300" src="./public/miru.png" alt="Miru 看板娘"/>
 
 # <img src="./public/logo.svg" width="100">
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMiaoMint%2Fmiru-next.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMiaoMint%2Fmiru-next?ref=badge_shield)
+
 
 Miru2.0 ***一个支持扩展源的免费开源多功能播放器**(?)，灵感来自 [Tachiyomi](https://tachiyomi.org/)*
 
@@ -16,3 +18,7 @@ Miru2.0 ***一个支持扩展源的免费开源多功能播放器**(?)，灵感�
 
 [TG群组](https://t.me/MiruChat) | [TG频道](https://t.me/MiruChannel)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMiaoMint%2Fmiru-next.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMiaoMint%2Fmiru-next?ref=badge_large)
